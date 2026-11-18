@@ -1,0 +1,10 @@
+/content.json
+  Cache-Control: no-store, no-cache, must-revalidate, max-age=0
+/site-edits.json
+  Cache-Control: no-store, no-cache, must-revalidate, max-age=0
+/site.js
+  Cache-Control: no-cache, must-revalidate
+/styles.css
+  Cache-Control: no-cache, must-revalidate
+/admin/*
+  X-Robots-Tag: noindex, nofollow
