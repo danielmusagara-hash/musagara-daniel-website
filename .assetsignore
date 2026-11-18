@@ -1,0 +1,6 @@
+src/
+wrangler.toml
+README.md
+README-WORKERS-V5.txt
+.assetsignore
+admin-script-check.js
