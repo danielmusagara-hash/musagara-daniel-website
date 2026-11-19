@@ -1,8 +1,19 @@
 {
-  "text": {},
+  "text": {
+    "body>main:nth-of-type(1)>section:nth-of-type(1)>div:nth-of-type(1)>h1:nth-of-type(1)>em:nth-of-type(1)": "Daniel."
+  },
   "images": {},
   "styles": {},
-  "order": [],
+  "order": [
+    "home",
+    "about",
+    "company",
+    "expertise",
+    "products",
+    "projects",
+    "gallery",
+    "contact"
+  ],
   "hiddenSections": [],
   "newSections": []
-}
+}\n
